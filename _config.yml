@@ -28,10 +28,10 @@ github_username:  rjoberon
 
 # Build settings
 theme: minima
-show_excerpts: true
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
+# show_excerpts: true
+# plugins:
+#   - jekyll-feed
+#   - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.
